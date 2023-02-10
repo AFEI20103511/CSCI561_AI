@@ -1,5 +1,3 @@
-# CSCI561_AI
-
 # HW1 Genetic Algo
 <img width="1066" alt="Screenshot 2023-02-09 at 4 56 31 PM" src="https://user-images.githubusercontent.com/22141794/217973089-c8992390-d213-4921-98d2-5903770384a1.png">
 
